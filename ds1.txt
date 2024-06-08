@@ -1,11 +1,6 @@
-#If two or more persons modify same file with different changes and try to merge that code changes, then we have to get conflicts
+f two or more persons modify same file with different changes and try to merge that code changes, then we have to get conflicts
 -Deciding which changes to keep or modify, and then updating the files accordingly.
-<<<<<<< Updated upstream
-hell
-codeo
-=======
 #When you attempt to merge branches or pull changes from a remote repository, Git will notify you if there are any conflicts. 
 -Keep only your changes.
 -Keep only the changes from the other branch.
 -Combine both sets of changes.
->>>>>>> Stashed changes
