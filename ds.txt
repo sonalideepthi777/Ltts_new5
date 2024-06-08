@@ -1,0 +1,2 @@
+#If two or more persons modify same file with different changes and try to merge that code changes, then we have to get conflicts
+-Deciding which changes to keep or modify, and then updating the files accordingly.
